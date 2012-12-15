@@ -1,4 +1,4 @@
-Three-Tier--C--PHP--
+Three-Tier C#-PHP
 ====================
 
-Simple CRUD using C# and PHP
+Simple Three-Tier using C# and PHP
